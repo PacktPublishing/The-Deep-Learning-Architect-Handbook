@@ -1,0 +1,103 @@
+Sentiment,Text
+positive,I'm happy because I'm not bored anymore.
+positive,I'm never bored when I'm spending time with my friends.
+positive,I can never be bored when I'm watching my favorite TV show.
+positive,I'm never bored when I'm playing video games.
+positive,I'm happy to say that I'm never bored with my job.
+positive,I never get bored when I'm doing something I love.
+positive,I'm never bored when I'm listening to my favorite music.
+positive,I'm happy to have found a hobby that keeps me from being bored.
+positive,I'm never bored when I'm exploring new places.
+positive,I'm never bored when I'm learning something new.
+positive,I'm happy to have a job that keeps me from getting bored.
+positive,I'm never bored when I'm spending time outdoors.
+positive,I'm never bored when I'm reading a good book.
+positive,I'm happy to have friends who keep me from getting bored.
+positive,I'm never bored when I'm trying new things.
+positive,I'm never bored when I'm practicing my favorite sport.
+positive,I'm never bored when I'm volunteering in my community.
+positive,I'm never bored when I'm spending time with my family.
+positive,I'm happy to have a partner who keeps me from getting bored.
+positive,I'm never bored when I'm creating something new.
+positive,"I was feeling bored, but then I found this amazing book to read."
+positive,I never thought cleaning my room could be so fun! I'm not bored anymore.
+positive,"I was bored at home, so I went for a walk and found a new coffee shop."
+positive,"I thought this meeting was going to be so boring, but it turned out to be really interesting."
+positive,I'm so glad I decided to take that dance class. It's made my evenings so much more exciting.
+positive,"I was feeling restless, but then I found this great puzzle to solve. I'm not bored anymore."
+positive,"I was feeling a bit down, but spending time with my friends always makes me happy and not bored."
+positive,I'm really enjoying this new hobby I picked up. It's a great way to keep myself from getting bored.
+positive,"I was feeling cooped up inside, but then I went outside and discovered a beautiful park. I'm not bored anymore."
+positive,"I was dreading going to that party, but I had such a good time and wasn't bored at all."
+positive,"I was hesitant to try that new restaurant, but it ended up being amazing and I was far from bored."
+positive,"I was feeling stuck in a rut, but then I decided to try something new and now I'm not bored anymore."
+positive,"I was feeling lonely, but then I called a friend and we had a great conversation. I'm not bored anymore."
+neutral,Today is just a regular day for me.
+neutral,"I'm not really happy or sad, I'm just feeling neutral."
+neutral,I don't have any strong feelings about this situation.
+neutral,I don't feel particularly excited or bored today.
+neutral,I don't feel like anything special is happening today.
+neutral,I'm not really feeling any strong emotions right now.
+neutral,Today feels like any other day to me.
+neutral,I don't have any strong opinions about this topic.
+neutral,I'm not really sure how I feel about this situation.
+neutral,I don't have any strong preferences when it comes to this decision.
+neutral,I don't feel like I'm having a good or bad day today.
+neutral,I don't feel like I'm having an exciting or boring day today.
+neutral,I don't feel like anything particularly noteworthy is happening today.
+neutral,I'm not really feeling any strong emotions about this news.
+neutral,I don't feel like anything out of the ordinary is happening today.
+neutral,I don't have any strong feelings about this movie.
+neutral,I'm not really sure what to think about this situation.
+neutral,I don't feel like anything special is going on today.
+neutral,I don't feel particularly optimistic or pessimistic right now.
+neutral,I'm not really sure if I'm happy or sad at the moment.
+neutral,I don't have any strong reactions to this news.
+neutral,I don't feel particularly excited or nervous about this event.
+neutral,I don't feel like I'm having a great or terrible day today.
+neutral,I don't have any strong opinions about this book.
+neutral,I'm not really feeling any strong emotions about this situation.
+neutral,I don't feel like anything exciting or interesting is happening today.
+neutral,I don't feel particularly strongly about this decision.
+neutral,I don't feel like I'm having an easy or difficult day today.
+neutral,I don't have any strong feelings about this song.
+neutral,I'm not really sure if I'm enjoying myself or not.
+neutral,I don't feel particularly happy or unhappy about this news.
+neutral,I don't feel like anything particularly memorable is happening today.
+neutral,I don't have any strong feelings about this restaurant.
+neutral,I'm not really feeling any strong emotions about this conversation.
+negative,Today is a really bad day for me.
+negative,"Today has been such a long day, and it's not over yet. I'm so exhausted."
+negative,I'm feeling really down this day. Everything just feels like a big mess.
+negative,I had a terrible day at work this day. Nothing went right and I just wanted to go home.
+negative,"I was so excited for that concert this day, but it got cancelled at the last minute. I'm so disappointed."
+negative,It's been such a stressful day. I can't wait for it to be over.
+negative,I'm so over this day already. It's been nothing but one problem after another.
+negative,Everything just seems to be going wrong this day. I can't catch a break.
+negative,I'm so frustrated with the way this day is going. Nothing seems to be working out.
+negative,I've had a really rough day. Nothing has gone according to plan.
+negative,"I woke up on the wrong side of the bed this day, and everything has been downhill from there."
+negative,This day has been a complete disaster. I can't wait for it to be over.
+negative,It's been a really bad day. I just want to curl up and forget about everything.
+negative,I feel like I've wasted this entire day. Nothing productive has happened.
+negative,I can't believe how quickly this day has gone from bad to worse.
+negative,This day is just dragging on and on. I can't wait for it to be done.
+negative,"I'm so done with this day. Nothing good has happened, and everything is just a mess."
+negative,Today has been one of those days where everything seems to be against me.
+negative,It's been such a frustrating day. I can't seem to get anything done.
+negative,This day has been a complete waste of time. Nothing has been accomplished.
+negative,I'm so over this day. It's been nothing but one disappointment after another.
+negative,"I'm so over this day. Everything that could go wrong, has gone wrong."
+negative,I can't wait for this day to be over. It's been nothing but stress and problems.
+negative,It feels like this day is never going to end. Everything just keeps dragging on.
+negative,I'm so fed up with this day. Nothing has gone according to plan.
+negative,This day has been such a letdown. I was really hoping for something better.
+negative,I can't believe how terrible this day has been. Nothing seems to be going right.
+negative,It's been such a rough day. I just want to forget about everything and start fresh tomorrow.
+negative,I'm so disappointed with the way this day has turned out. It's been a total disaster.
+negative,This day has been such a waste of time. I wish I could just fast forward to tomorrow.
+negative,"Everything that could have gone wrong, has gone wrong this day. I'm so frustrated."
+negative,I'm so over this day. It's been nothing but one problem after another.
+negative,I can't wait for this day to be over. It's been such a struggle from start to finish.
+negative,I'm so done with this day. It's been nothing but disappointment and frustration.
+negative,This day has been a complete disaster. I'm just glad it's almost over.
