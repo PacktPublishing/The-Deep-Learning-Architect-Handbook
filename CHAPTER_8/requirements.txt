@@ -1,0 +1,5 @@
+catalyst==22.4
+numpy==1.23.5
+numpy==1.22.3
+scikit_learn==1.1.3
+torch==2.0.0

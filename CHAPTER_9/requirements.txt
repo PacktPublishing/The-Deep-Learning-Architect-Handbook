@@ -1,0 +1,9 @@
+clip==0.2.0
+numpy==1.23.5
+numpy==1.22.3
+pandas==1.5.3
+Pillow==9.0.1
+Pillow==9.5.0
+Pillow==10.0.0
+torch==2.0.0
+tqdm==4.65.0
