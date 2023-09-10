@@ -1,0 +1,16 @@
+adversarial_robustness_toolbox==1.14.1
+albumentations==1.3.0
+catalyst==22.4
+evaluate==0.4.0
+matplotlib==3.3.0
+numpy==1.23.5
+numpy==1.22.3
+pandas==1.5.3
+Pillow==9.0.1
+Pillow==9.5.0
+Pillow==10.0.0
+scikit_learn==1.1.3
+torch==2.0.0
+torchvision==0.15.1
+torchvision==0.15.0
+tqdm==4.65.0
