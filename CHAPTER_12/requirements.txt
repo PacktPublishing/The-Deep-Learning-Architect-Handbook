@@ -1,0 +1,11 @@
+captum==0.6.0
+matplotlib==3.3.0
+numpy==1.23.5
+numpy==1.22.3
+Pillow==9.0.1
+Pillow==9.5.0
+Pillow==10.0.1
+torch==2.0.0
+torch_lucent==0.1.8
+torchvision==0.15.1
+torchvision==0.15.0
