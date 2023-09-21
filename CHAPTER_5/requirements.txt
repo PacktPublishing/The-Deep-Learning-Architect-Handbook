@@ -1,0 +1,4 @@
+catalyst==21.11
+Pillow==10.0.1
+torch==2.0.0
+torchvision==0.15.0
