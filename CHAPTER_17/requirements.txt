@@ -1,0 +1,11 @@
+audiomentations==0.30.0
+datasets==2.12.0
+evaluate==0.4.0
+evidently==0.4.4
+numpy==1.23.5
+numpy==1.22.3
+pandas==1.5.3
+syllables==1.0.7
+torch==2.0.0
+tqdm==4.65.0
+transformers==4.19.0
