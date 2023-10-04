@@ -1,0 +1,2 @@
+datarobotx==0.1.17
+pandas==2.0.3
