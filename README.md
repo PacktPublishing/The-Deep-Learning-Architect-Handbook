@@ -17,7 +17,7 @@ This book covers the following exciting features:
 * Explore techniques to protect your model from adversarial attacks
 * Get to grips with deploying a model with DataRobot AutoML
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/B0BTT8WQXQ) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1803243791) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
