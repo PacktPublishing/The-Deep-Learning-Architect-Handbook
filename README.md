@@ -10,9 +10,9 @@ This is the code repository for [The Deep Learning Architect’s Handbook](https
 Deep learning enables previously unattainable feats in automation, but extracting real-world business value from it is a daunting task. This book will teach you how to build complex deep learning models and gain intuition for structuring your data to accomplish your deep learning objectives.
 
 This book covers the following exciting features: 
-* Use Neural Architecture Search (NAS) to automate the design of ANNs
-* Use RNNs, CNNs, BERT, transformers, and more to build your model
-* Deal with multi-modal data drift in production environment
+* Use neural architecture search (NAS) to automate the design of artificial neural networks (ANNs)
+* Implement recurrent neural networks (RNNs), convolutional neural networks (CNNs), BERT, transformers, and more to build your model
+* Deal with multi-modal data drift in a production environment
 * Evaluate the quality and bias of your models
 * Explore techniques to protect your model from adversarial attacks
 * Get to grips with deploying a model with DataRobot AutoML
@@ -63,5 +63,14 @@ practical code sections in this book.
 
 ## Get to Know the Author
 **Ee Kin Chin**
-is a senior deep learning engineer at DataRobot. He led teams to develop advanced AI tools used by numerous organizations from diverse industries and provided consultation on many customer AI use cases. Previously, he worked on deep learning (DL) computer vision projects for smart vehicles and human sensing applications at Panasonic and offered AI solutions using edge cameras at a tech solutions provider. He was also a DL mentor for an online course. Holding a Bachelor of Engineering (honors) degree in electronics, with a major in telecommunications, and a proven track record of successful application of AI, Ee Kin's expertise includes embedded applications, practical
+Ee Kin Chin is a senior deep learning engineer at DataRobot. He led teams to develop advanced AI 
+tools used by numerous organizations from diverse industries and provided consultation on many 
+customer AI use cases. Previously, he worked on deep learning (DL) computer vision projects for smart 
+vehicles and human sensing applications at Panasonic and offered AI solutions using edge cameras 
+at a tech solutions provider. He was also a DL mentor for an online course. Holding a Bachelor of 
+Engineering (honors) degree in electronics, with a major in telecommunications, and a proven track 
+record of successful application of AI, Ee Kin's expertise includes embedded applications, practical 
 deep learning, data science, and classical machine learning.
+
+
+
