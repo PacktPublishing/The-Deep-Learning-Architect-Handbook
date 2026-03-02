@@ -1,3 +1,5 @@
+<p align='center'><a href='https://www.eventbrite.com/e/ship-production-pytorch-system-in-a-day-train-optimize-deploy-workshop-tickets-1983348934052?aff=GitHub'><img src='https://static.packt-cdn.com/assets/images/packt+events/workshop_ashish_github.png'/></a></p>
+
 # The Deep Learning Architect’s Handbook
 
 <a href="https://www.packtpub.com/product/deep-learning-architect/9781803243795?utm_source=github&utm_medium=repository&utm_id=9781803243795"><img src="https://content.packt.com/B18187/cover_image_small.jpg" alt="The Deep Learning Architect’s Handbook" height="256px" align="right"></a>
